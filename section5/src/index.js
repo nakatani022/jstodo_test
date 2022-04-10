@@ -4,7 +4,7 @@
   let
 */
 
-console.log(`渡しの名前は${name}です、${age}`)
+console.log(`私の名前は${name}です、${age}`)
 
 // アロー関数
 const func1 = str => str;
